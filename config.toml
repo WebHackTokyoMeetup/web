@@ -27,7 +27,7 @@ staticDir = ["static"]
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
-  customCSS = ["main.css"]
+  customCSS = ["/main.css"]
 
 
   [params.portrait]
@@ -72,7 +72,7 @@ staticDir = ["static"]
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "/posts"
+    url        = "posts"
 
   [[menu.main]]
     identifier = "home"
