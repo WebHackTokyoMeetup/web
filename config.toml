@@ -64,4 +64,4 @@ paginate     = 10
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "/webhack-web/posts"
+    url        = "/posts"
