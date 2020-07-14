@@ -27,6 +27,8 @@ staticDir = ["static"]
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
+  customCSS = ["main.css"]
+
 
   [params.portrait]
     path     = "/webhack-logo.svg"
