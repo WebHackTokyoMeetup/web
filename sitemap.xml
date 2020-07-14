@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>webhacktokyomeetup.github.io/blog/</loc>
+    <loc>https://webhacktokyomeetup.github.io/blog/</loc>
   </url>
   
   <url>
-    <loc>webhacktokyomeetup.github.io/series/</loc>
+    <loc>https://webhacktokyomeetup.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>webhacktokyomeetup.github.io/tags/</loc>
+    <loc>https://webhacktokyomeetup.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>webhacktokyomeetup.github.io/</loc>
+    <loc>https://webhacktokyomeetup.github.io/</loc>
   </url>
   
 </urlset>
