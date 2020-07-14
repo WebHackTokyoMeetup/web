@@ -3,7 +3,7 @@ title        = "WebHack Meetup"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
-
+staticDir = ["static"]
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -26,6 +26,12 @@ paginate     = 10
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
+
+
+  [params.portrait]
+    path     = "/webhack-logo.svg"
+    alt      = "Portrait"
+    maxWidth = "1000px"
 
   [[params.social]]
     name = "twitter"
@@ -65,3 +71,8 @@ paginate     = 10
     identifier = "posts"
     name       = "Posts"
     url        = "/posts"
+
+  [[menu.main]]
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
