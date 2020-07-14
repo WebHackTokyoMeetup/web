@@ -1,4 +1,4 @@
-baseurl      = "webhack-web"
+baseurl      = ""
 title        = "WebHack Meetup"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -40,7 +40,7 @@ paginate     = 10
     url  = "https://www.youtube.com/channel/UCgEy_nsXxRj3X_R-18j5UCw"
 
 [taxonomies]
-    category = "blog"
+    category = "posts"
     tag      = "tags"
     series   = "series"
 
@@ -62,6 +62,6 @@ paginate     = 10
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "blog"
+    identifier = "posts"
     name       = "Posts"
-    url        = "/posts"
+    url        = "/webhack-web/posts"
