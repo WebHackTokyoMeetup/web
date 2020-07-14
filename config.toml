@@ -1,4 +1,4 @@
-baseurl      = "webhacktokyomeetup.github.io"
+baseurl      = "https://webhacktokyomeetup.github.io"
 title        = "WebHack Meetup"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
