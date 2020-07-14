@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>webhack-web/blog/</loc>
+    <loc>/posts/</loc>
   </url>
   
   <url>
-    <loc>webhack-web/series/</loc>
+    <loc>/series/</loc>
   </url>
   
   <url>
-    <loc>webhack-web/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>webhack-web/</loc>
+    <loc>/</loc>
   </url>
   
 </urlset>
